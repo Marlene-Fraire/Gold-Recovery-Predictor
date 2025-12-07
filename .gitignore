@@ -1,0 +1,30 @@
+# Entornos virtuales
+env/
+.venv/
+
+# Archivos de Jupyter temporales
+.ipynb_checkpoints/
+
+# Archivos de cache y compilación
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Archivos de log y salida
+*.log
+*.out
+
+# Configuraciones locales de VSCode o JupyterLab
+.vscode/
+.jupyter/
+
+# Datos grandes o sensibles
+data/
+*.csv
+*.xlsx
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
